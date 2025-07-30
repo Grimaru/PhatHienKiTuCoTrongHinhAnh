@@ -1,0 +1,13 @@
+numpy==1.24.3
+tensorflow==2.13.0
+keras-ocr==0.9.3
+imgaug==0.4.0
+Pillow>=8.0.0
+opencv-python>=4.5.0
+shapely<2.0
+tqdm
+editdistance
+pyclipper
+fonttools
+essential_generators
+validators
