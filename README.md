@@ -2,6 +2,8 @@
 ###
 ### By: Grimaru (I did it alone even though I had a chance to have one more member for this project)
 ###
+### Technical support: <a href="https://github.com/phamdinhanhphuong-ship-it">Phạm Đình Anh Phương</a>
+### 
 ### Instructor: Assoc. Prof. PhD. Nguyen Thanh Binh (email: binhnt1@huflit.edu.vn)
 ###
 ### Email: rinnenguyenlife4u@gmail.com (sub: 22dh112315@st.huflit.edu.vn)
